@@ -1,0 +1,4 @@
+com/company/products/repository/ItemRepository.class
+com/company/products/model/Item.class
+com/company/products/Application.class
+com/company/products/controller/ItemController.class
